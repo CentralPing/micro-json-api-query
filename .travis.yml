@@ -10,7 +10,7 @@ deploy:
   email: jason@centralping.com
   skip_cleanup: true
   on:
-    repo: CentralPing/json-api-query
+    repo: CentralPing/micro-json-api-query
     branch: master
     tags: true
   api_key:
