@@ -1,3 +1,9 @@
+#### v0.0.2 (2018-10-11)
+
+##### Chores
+
+* **travis:**  correct npm repo name ([187d7baf](https://github.com/CentralPing/micro-json-api-query/commit/187d7bafbebf6f0f3bc0fefa30f55294804efdcb))
+
 #### v0.0.1 (2018-10-11)
 
 ##### Chores
