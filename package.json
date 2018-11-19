@@ -39,17 +39,17 @@
   },
   "homepage": "https://github.com/CentralPing/micro-json-api-query",
   "dependencies": {
-    "@centralping/json-api-query": "0.1.1",
+    "@centralping/json-api-query": "^0.1.2",
     "esm": "^3.0.84",
     "micro": "^9.3.3"
   },
   "devDependencies": {
     "coveralls": "^3.0.2",
-    "eslint": "^5.6.1",
-    "eslint-config-google": "^0.10.0",
+    "eslint": "^5.9.0",
+    "eslint-config-google": "^0.11.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jest": "^21.24.1",
-    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-jest": "^22.0.0",
+    "eslint-plugin-node": "^8.0.0",
     "generate-changelog": "git+https://github.com/JasonCust/generate-changelog.git",
     "jest": "^23.6.0",
     "jsdoc-to-markdown": "^4.0.1",
