@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/CentralPing/micro-json-api-query",
   "dependencies": {
-    "@centralping/json-api-query": "^0.1.2",
+    "@centralping/json-api-query": "^0.1.3",
     "esm": "^3.0.84",
     "micro": "^9.3.3"
   },
