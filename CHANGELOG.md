@@ -1,3 +1,13 @@
+#### v0.1.0 (2018-11-22)
+
+##### Chores
+
+* **package:**  update dependencies ([4fb6dc6c](https://github.com/CentralPing/micro-json-api-query/commit/4fb6dc6c56785957ffef0fb9b1f6d1a5fd9f5337))
+
+##### Bug Fixes
+
+* **main:**  return errors object ([029df0ad](https://github.com/CentralPing/micro-json-api-query/commit/029df0adae8e449c673d9574a72f2b61474e8872))
+
 #### v0.0.3 (2018-11-19)
 
 ##### Chores
